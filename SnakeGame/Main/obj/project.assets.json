@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Alex\\.nuget\\packages\\": {}
+    "C:\\Users\\CST\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Alex\\Documents\\Forsvaret\\Afleveringer & Opgaver\\CSharp\\Kode\\SnakeGame\\Main\\Main.csproj",
+      "projectUniqueName": "C:\\Users\\CST\\Desktop\\Alexander VEO19\\CSharpKursus\\Snake\\SnakeGame\\Main\\Main.csproj",
       "projectName": "Main",
-      "projectPath": "D:\\Alex\\Documents\\Forsvaret\\Afleveringer & Opgaver\\CSharp\\Kode\\SnakeGame\\Main\\Main.csproj",
-      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "D:\\Alex\\Documents\\Forsvaret\\Afleveringer & Opgaver\\CSharp\\Kode\\SnakeGame\\Main\\obj\\",
+      "projectPath": "C:\\Users\\CST\\Desktop\\Alexander VEO19\\CSharpKursus\\Snake\\SnakeGame\\Main\\Main.csproj",
+      "packagesPath": "C:\\Users\\CST\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CST\\Desktop\\Alexander VEO19\\CSharpKursus\\Snake\\SnakeGame\\Main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CST\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

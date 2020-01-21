@@ -9,3 +9,14 @@ D:\Alex\Documents\Forsvaret\Afleveringer & Opgaver\CSharp\Kode\SnakeGame\Main\bi
 D:\Alex\Documents\Forsvaret\Afleveringer & Opgaver\CSharp\Kode\SnakeGame\Main\bin\Debug\netcoreapp3.1\Main.pdb
 D:\Alex\Documents\Forsvaret\Afleveringer & Opgaver\CSharp\Kode\SnakeGame\Main\obj\Debug\netcoreapp3.1\Main.dll
 D:\Alex\Documents\Forsvaret\Afleveringer & Opgaver\CSharp\Kode\SnakeGame\Main\obj\Debug\netcoreapp3.1\Main.pdb
+C:\Users\CST\Desktop\Alexander VEO19\CSharpKursus\Snake\SnakeGame\Main\bin\Debug\netcoreapp3.1\Main.exe
+C:\Users\CST\Desktop\Alexander VEO19\CSharpKursus\Snake\SnakeGame\Main\bin\Debug\netcoreapp3.1\Main.deps.json
+C:\Users\CST\Desktop\Alexander VEO19\CSharpKursus\Snake\SnakeGame\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.json
+C:\Users\CST\Desktop\Alexander VEO19\CSharpKursus\Snake\SnakeGame\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.dev.json
+C:\Users\CST\Desktop\Alexander VEO19\CSharpKursus\Snake\SnakeGame\Main\bin\Debug\netcoreapp3.1\Main.dll
+C:\Users\CST\Desktop\Alexander VEO19\CSharpKursus\Snake\SnakeGame\Main\bin\Debug\netcoreapp3.1\Main.pdb
+C:\Users\CST\Desktop\Alexander VEO19\CSharpKursus\Snake\SnakeGame\Main\obj\Debug\netcoreapp3.1\Main.csprojAssemblyReference.cache
+C:\Users\CST\Desktop\Alexander VEO19\CSharpKursus\Snake\SnakeGame\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfoInputs.cache
+C:\Users\CST\Desktop\Alexander VEO19\CSharpKursus\Snake\SnakeGame\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfo.cs
+C:\Users\CST\Desktop\Alexander VEO19\CSharpKursus\Snake\SnakeGame\Main\obj\Debug\netcoreapp3.1\Main.dll
+C:\Users\CST\Desktop\Alexander VEO19\CSharpKursus\Snake\SnakeGame\Main\obj\Debug\netcoreapp3.1\Main.pdb
