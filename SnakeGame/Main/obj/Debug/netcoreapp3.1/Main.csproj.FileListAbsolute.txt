@@ -1,0 +1,11 @@
+D:\Alex\Documents\Forsvaret\Afleveringer & Opgaver\CSharp\Kode\SnakeGame\Main\obj\Debug\netcoreapp3.1\Main.csprojAssemblyReference.cache
+D:\Alex\Documents\Forsvaret\Afleveringer & Opgaver\CSharp\Kode\SnakeGame\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfoInputs.cache
+D:\Alex\Documents\Forsvaret\Afleveringer & Opgaver\CSharp\Kode\SnakeGame\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfo.cs
+D:\Alex\Documents\Forsvaret\Afleveringer & Opgaver\CSharp\Kode\SnakeGame\Main\bin\Debug\netcoreapp3.1\Main.exe
+D:\Alex\Documents\Forsvaret\Afleveringer & Opgaver\CSharp\Kode\SnakeGame\Main\bin\Debug\netcoreapp3.1\Main.deps.json
+D:\Alex\Documents\Forsvaret\Afleveringer & Opgaver\CSharp\Kode\SnakeGame\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.json
+D:\Alex\Documents\Forsvaret\Afleveringer & Opgaver\CSharp\Kode\SnakeGame\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.dev.json
+D:\Alex\Documents\Forsvaret\Afleveringer & Opgaver\CSharp\Kode\SnakeGame\Main\bin\Debug\netcoreapp3.1\Main.dll
+D:\Alex\Documents\Forsvaret\Afleveringer & Opgaver\CSharp\Kode\SnakeGame\Main\bin\Debug\netcoreapp3.1\Main.pdb
+D:\Alex\Documents\Forsvaret\Afleveringer & Opgaver\CSharp\Kode\SnakeGame\Main\obj\Debug\netcoreapp3.1\Main.dll
+D:\Alex\Documents\Forsvaret\Afleveringer & Opgaver\CSharp\Kode\SnakeGame\Main\obj\Debug\netcoreapp3.1\Main.pdb
